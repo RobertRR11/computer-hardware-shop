@@ -1,0 +1,29 @@
+{
+	"Garfikkarten": {
+		"beliebt": true
+	},
+	"CPU": {
+		"beliebt": true
+	},
+	"Festplatten": {
+		"beliebt": false
+	},
+	"Monitore": {
+		"beliebt": false
+	},
+	"Mainboards": {
+		"beliebt": false
+	},
+	"Gehäuse": {
+		"beliebt": true
+	},
+	"RAM": {
+		"beliebt": true
+	},
+	"Netzteile": {
+		"beliebt": false
+	},
+	"Kühlung": {
+		"beliebt": false
+	}
+}
