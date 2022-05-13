@@ -1,0 +1,38 @@
+{
+	"MSI GeForce RTX 3060 Gaming X": {
+		"Preis": 498.00,
+		"Anschlüsse": "1x HDMI 2.1, 3x DisplayPort 1.4a",
+		"Grafik": "NVIDIA GeForce RTX 3060 - 12GB GDDR6 - Desktop",
+		"Chip": "GA106-300-A1 \"Ampere\", 28SM, 276mm²",
+		"Fertigung": "8nm (Samsung)",
+		"Chiptakt": "1320MHz, Boost: 1837MHz",
+		"Speicher": "12GB GDDR6, 1875MHz, 15Gbps (15000MHz effektiv), 192bit, 360GB/s",
+		"Shader-Einheiten/TMUs/ROPs": "3584/112/48",
+		"TDP/TGP": "170W (NVIDIA), 170W (MSI)",
+		"Externe Stromversorgung": "1x 8-Pin PCIe, 1x 6-Pin PCIe",
+		"Kühlung": "2x Axial-Lüfter (100mm)",
+		"Gesamthöhe": "Triple-Slot",
+		"Abmessungen": "276x131x51mm",
+		"Besonderheiten": "Echtzeit-Raytracing, Raytracing Cores (28), Tensor Cores (112), NVIDIA G-Sync, NVIDIA VR-Ready, AV1 Decode, HDCP 2.3, 0dB-Zero-Fan-Modus, Backplate, LED-Beleuchtung (RGB), Boost-Takt übertaktet (+60MHz)",
+		"Schnittstelle": "PCIe 4.0 x16",
+		"Rechenleistung" :"13.17 TFLOPS (FP32), 206 GFLOPS (FP64)"
+	},
+	"PowerColor Radeon RX 6600 XT Fighter": {
+		"Preis": 428.00,
+		"Anschlüsse": "1x HDMI 2.1, 3x DisplayPort 1.4a",
+		"Grafik": "AMD Radeon RX 6600 XT - 8GB GDDR6 - Desktop",
+		"Chip": "Navi 23 XT \"RDNA 2\", 32CU, 237mm²",
+		"Fertigung": "7nm (TSMC)",
+		"Chiptakt": "1968MHz, Boost: 2359-2589MHz",
+		"Speicher": "8GB GDDR6, 2000MHz, 16Gbps (16000MHz effektiv), 128bit, 256GB/s",
+		"Shader-Einheiten/TMUs/ROPs": "2048/128/64",
+		"TDP/TGP": "160W (AMD)",
+		"Externe Stromversorgung": "1x 8-Pin PCIe",
+		"Kühlung": "2x Axial-Lüfter (90mm)",
+		"Gesamthöhe": "Dual-Slot",
+		"Abmessungen": "200x111x39mm",
+		"Besonderheiten": "Echtzeit-Raytracing, AMD Infinity Cache (32MB), HDCP 2.3, AMD FreeSync, AMD TrueAudio Next, AMD Eyefinity, AV1 Decode, 0dB-Zero-Fan-Modus (bis 60°C)",
+		"Schnittstelle": "PCIe 4.0 x16 (x8)",
+		"Rechenleistung": "10.61 TFLOPS (FP32), 663 GFLOPS (FP64)"
+	}
+}
