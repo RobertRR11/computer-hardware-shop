@@ -1,5 +1,11 @@
 {
 	"MSI GeForce RTX 3060 Gaming X": {
+		"Vorgestellt": {
+			"Grafik": "NVIDIA GeForce RTX 3060 - 12GB GDDR6 - Desktop",
+			"Chiptakt": "1320MHz, Boost: 1837MHz",
+			"TDP/TGP": "170W (NVIDIA), 170W (MSI)",
+			"Abmessungen": "276x131x51mm"
+		},
 		"Preis": 498.00,
 		"Anschlüsse": "1x HDMI 2.1, 3x DisplayPort 1.4a",
 		"Grafik": "NVIDIA GeForce RTX 3060 - 12GB GDDR6 - Desktop",
@@ -18,6 +24,12 @@
 		"Rechenleistung" :"13.17 TFLOPS (FP32), 206 GFLOPS (FP64)"
 	},
 	"PowerColor Radeon RX 6600 XT Fighter": {
+		"Vorgestellt": {
+			"Grafik": "AMD Radeon RX 6600 XT - 8GB GDDR6 - Desktop",
+			"Chiptakt": "1968MHz, Boost: 2359-2589MHz",
+			"TDP/TGP": "160W (AMD)",
+			"Abmessungen": "200x111x39mm"
+		},
 		"Preis": 428.00,
 		"Anschlüsse": "1x HDMI 2.1, 3x DisplayPort 1.4a",
 		"Grafik": "AMD Radeon RX 6600 XT - 8GB GDDR6 - Desktop",
