@@ -1,0 +1,122 @@
+{
+    "MSI GeForce RTX 3060 Gaming X": {
+        "Vorgestellt": {
+            "Grafik": "NVIDIA GeForce RTX 3060 - 12GB GDDR6 - Desktop",
+            "Chiptakt": "1320MHz, Boost: 1837MHz",
+            "TDP/TGP": "170W (NVIDIA), 170W (MSI)",
+            "Abmessungen": "276x131x51mm"
+        },
+        "Preis": "498,00",
+        "Anschlüsse": "1x HDMI 2.1, 3x DisplayPort 1.4a",
+        "Grafik": "NVIDIA GeForce RTX 3060 - 12GB GDDR6 - Desktop",
+        "Chip": "GA106-300-A1 \"Ampere\", 28SM, 276mm²",
+        "Fertigung": "8nm (Samsung)",
+        "Chiptakt": "1320MHz, Boost: 1837MHz",
+        "Speicher": "12GB GDDR6, 1875MHz, 15Gbps (15000MHz effektiv), 192bit, 360GB/s",
+        "Shader-Einheiten/TMUs/ROPs": "3584/112/48",
+        "TDP/TGP": "170W (NVIDIA), 170W (MSI)",
+        "Externe Stromversorgung": "1x 8-Pin PCIe, 1x 6-Pin PCIe",
+        "Kühlung": "2x Axial-Lüfter (100mm)",
+        "Gesamthöhe": "Triple-Slot",
+        "Abmessungen": "276x131x51mm",
+        "Besonderheiten": "Echtzeit-Raytracing, Raytracing Cores (28), Tensor Cores (112), NVIDIA G-Sync, NVIDIA VR-Ready, AV1 Decode, HDCP 2.3, 0dB-Zero-Fan-Modus, Backplate, LED-Beleuchtung (RGB), Boost-Takt übertaktet (+60MHz)",
+        "Schnittstelle": "PCIe 4.0 x16",
+        "Rechenleistung" :"13.17 TFLOPS (FP32), 206 GFLOPS (FP64)"
+    },
+    "PowerColor Radeon RX 6600 XT Fighter": {
+        "Vorgestellt": {
+            "Grafik": "AMD Radeon RX 6600 XT - 8GB GDDR6 - Desktop",
+            "Chiptakt": "1968MHz, Boost: 2359-2589MHz",
+            "TDP/TGP": "160W (AMD)",
+            "Abmessungen": "200x111x39mm"
+        },
+        "Preis": "428,00",
+        "Anschlüsse": "1x HDMI 2.1, 3x DisplayPort 1.4a",
+        "Grafik": "AMD Radeon RX 6600 XT - 8GB GDDR6 - Desktop",
+        "Chip": "Navi 23 XT \"RDNA 2\", 32CU, 237mm²",
+        "Fertigung": "7nm (TSMC)",
+        "Chiptakt": "1968MHz, Boost: 2359-2589MHz",
+        "Speicher": "8GB GDDR6, 2000MHz, 16Gbps (16000MHz effektiv), 128bit, 256GB/s",
+        "Shader-Einheiten/TMUs/ROPs": "2048/128/64",
+        "TDP/TGP": "160W (AMD)",
+        "Externe Stromversorgung": "1x 8-Pin PCIe",
+        "Kühlung": "2x Axial-Lüfter (90mm)",
+        "Gesamthöhe": "Dual-Slot",
+        "Abmessungen": "200x111x39mm",
+        "Besonderheiten": "Echtzeit-Raytracing, AMD Infinity Cache (32MB), HDCP 2.3, AMD FreeSync, AMD TrueAudio Next, AMD Eyefinity, AV1 Decode, 0dB-Zero-Fan-Modus (bis 60°C)",
+        "Schnittstelle": "PCIe 4.0 x16 (x8)",
+        "Rechenleistung": "10.61 TFLOPS (FP32), 663 GFLOPS (FP64)"
+    },
+    "GIGABYTE GeForce GTX 1660 OC 6G": {
+        "Vorgestellt": {
+            "Grafik": "NVIDIA GeForce GTX 1660 - 6GB GDDR5 - Desktop",
+            "Chiptakt": "1530MHz, Boost: 1830MHz",
+            "TDP/TGP": "120W (NVIDIA)",
+            "Abmessungen": "224x121x40mm"
+        },
+        "Preis": "317,76",
+        "Anschlüsse": "1x HDMI 2.0b, 3x DisplayPort 1.4a",
+        "Grafik": "NVIDIA GeForce GTX 1660 - 6GB GDDR5 - Desktop",
+        "Chip": "TU116-300-A1 \"Turing\", 22SM, 284mm²",
+        "Fertigung": "12nm (TSMC)",
+        "Chiptakt": "1530MHz, Boost: 1830MHz",
+        "Speicher": "6GB GDDR5, 2000MHz, 8Gbps (8000MHz effektiv), 192bit, 192GB/s",
+        "Shader-Einheiten/TMUs/ROPs": "1408/88/48",
+        "TDP/TGP": "120W (NVIDIA)",
+        "Externe Stromversorgung": "1x 8-Pin PCIe",
+        "Kühlung": "2x Axial-Lüfter (90mm)",
+        "Gesamthöhe": "Dual-Slot",
+        "Abmessungen": "224x121x40mm",
+        "Besonderheiten": "H.265 encode/decode, NVIDIA G-Sync, NVIDIA VR-Ready, HDCP 2.2, 0dB-Zero-Fan-Modus, Backplate, Boost-Takt übertaktet (+45MHz)",
+        "Schnittstelle": "PCIe 3.0 x16",
+        "Rechenleistung": "5.15 TFLOPS (FP32), 161 GFLOPS (FP64)"
+    },
+    "ASUS ROG Strix GeForce RTX 2080 Ti OC": {
+        "Vorgestellt": {
+            "Grafik": "NVIDIA GeForce RTX 2080 Ti - 11GB GDDR6 - Desktop",
+            "Chiptakt": "1350MHz, Boost: 1665MHz (OC Mode)",
+            "TDP/TGP": "250W (NVIDIA)",
+            "Abmessungen": "300x130x54mm"
+        },
+        "Preis": "2938,00",
+        "Anschlüsse": "2x HDMI 2.0b, 2x DisplayPort 1.4a, 1x USB-C mit DisplayPort 1.4a",
+        "Grafik": "NVIDIA GeForce RTX 2080 Ti - 11GB GDDR6 - Desktop",
+        "Chip": "TU102-300X-K1-A1 \"Turing\", 68SM, 754mm²",
+        "Fertigung": "12nm (TSMC)",
+        "Chiptakt": "1350MHz, Boost: 1665MHz (OC Mode)",
+        "Speicher": "11GB GDDR6, 1750MHz, 14Gbps (14000MHz effektiv), 352bit, 616GB/s",
+        "Shader-Einheiten/TMUs/ROPs": "4352/272/88",
+        "TDP/TGP": "250W (NVIDIA)",
+        "Externe Stromversorgung": "2x 8-Pin PCIe",
+        "Kühlung": "3x Axial-Lüfter (85mm)",
+        "Gesamthöhe": "Triple-Slot",
+        "Abmessungen": "300x130x54mm",
+        "Besonderheiten": "Echtzeit-Raytracing, Raytracing Cores (68), Tensor Cores (544), H.265 encode/decode, NVIDIA G-Sync, NVIDIA VR-Ready, NVIDIA NVLink, NVIDIA 2-Way-SLI (NVLink), HDCP 2.2, 0dB-Zero-Fan-Modus (bis 55°C), Backplate, Lüftersteuerung (2x 4-Pin), LED-Beleuchtung (RGB), 1x RGB-Header, Boost-Takt übertaktet (+120MHz)",
+        "Schnittstelle": "PCIe 3.0 x16",
+        "Rechenleistung": "14.49 TFLOPS (FP32), 453 GFLOPS (FP64)"
+    },
+    "ASUS Radeon RX 6500 XT Dual OC": {
+        "Vorgestellt": {
+            "Grafik": "AMD Radeon RX 6500 XT - 4GB GDDR6 - Desktop",
+            "Chiptakt": "keine Angabe, Boost: 2670-2820MHz (OC Mode)",
+            "TDP/TGP": "107W (AMD)",
+            "Abmessungen": "201x128x40mm"
+        },
+        "Preis": "237,81",
+        "Anschlüsse": "1x HDMI 2.1, 1x DisplayPort 1.4a",
+        "Grafik": "AMD Radeon RX 6500 XT - 4GB GDDR6 - Desktop",
+        "Chip": "Navi 24 \"RDNA 2\", 16CU, 107mm²",
+        "Fertigung": "6nm (TSMC)",
+        "Chiptakt": "keine Angabe, Boost: 2670-2820MHz (OC Mode)",
+        "Speicher": "4GB GDDR6, 2250MHz, 18Gbps (18000MHz effektiv), 64bit, 144GB/s",
+        "Shader-Einheiten/TMUs/ROPs": "1024/64/32",
+        "TDP/TGP": "107W (AMD)",
+        "Externe Stromversorgung": "1x 6-Pin PCIe",
+        "Kühlung": "2x Axial-Lüfter (90mm)",
+        "Gesamthöhe": "Dual-Slot",
+        "Abmessungen": "201x128x40mm",
+        "Besonderheiten": "Echtzeit-Raytracing, AMD Infinity Cache (16MB), HDCP 2.3, AMD FreeSync, AMD TrueAudio Next, AMD Eyefinity, 0dB-Zero-Fan-Modus, Backplate, LED-Beleuchtung (RGB), Boost-Takt übertaktet (+5MHz)",
+        "Schnittstelle": "PCIe 4.0 x16 (x4)",
+        "Rechenleistung": "5.78 TFLOPS (FP32), 361 GFLOPS (FP64)"
+    }
+}
