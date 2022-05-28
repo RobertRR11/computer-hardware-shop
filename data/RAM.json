@@ -1,0 +1,112 @@
+{
+    "G.Skill Aegis DIMM Kit 16GB": {
+        "Vorgestellt": {
+            "Typ": "DDR4 DIMM 288-Pin",
+            "Takt": "3200MHz",
+            "Module": "2x 8GB",
+            "Modulhöhe": "31.25mm"
+        },
+        "Preis": "54,80",
+        "Typ": "DDR4 DIMM 288-Pin",
+        "Takt": "3200MHz",
+        "Module": "2x 8GB",
+        "JEDEC": "PC4-25600U",
+        "CAS Latency CL": "16 (entspricht ~10.00ns)",
+        "Row-to-Column Delay tRCD": "18 (entspricht ~11.25ns)",
+        "Row Precharge Time tRP": "18 (entspricht ~11.25ns)",
+        "Active-to-Precharge Time tRAS": "38 (entspricht ~23.75ns)",
+        "Spannung": "1.35V",
+        "Modulhöhe": "31.25mm",
+        "Gehäuse": "N/A",
+        "Beleuchtung": "N/A",
+        "Besonderheiten": "Intel XMP 2.0"
+    },
+    "Corsair Vengeance RGB PRO DIMM Kit 16GB": {
+        "Vorgestellt": {
+            "Typ": "DDR4 DIMM 288-Pin",
+            "Takt": "3200MHz",
+            "Module": "2x 8GB",
+            "Modulhöhe": "51.4mm"
+        },
+        "Preis": "78,80",
+        "Typ": "DDR4 DIMM 288-Pin",
+        "Takt": "3200MHz",
+        "Module": "2x 8GB",
+        "JEDEC": "PC4-25600U",
+        "CAS Latency CL": "16 (entspricht ~10.00ns)",
+        "Row-to-Column Delay tRCD": "18 (entspricht ~11.25ns)",
+        "Row Precharge Time tRP": "18 (entspricht ~11.25ns)",
+        "Active-to-Precharge Time tRAS": "36 (entspricht ~22.50ns)",
+        "Spannung": "1.35V",
+        "Modulhöhe": "51.4mm",
+        "Gehäuse": "Heatspreader",
+        "Beleuchtung": "RGB, Corsair iCUE, Gigabyte RGB Fusion, MSI Mystic Light Sync",
+        "Besonderheiten": "Intel XMP 2.0, Temperatursensor"
+    },
+    "Crucial Ballistix DIMM Kit 32GB": {
+        "Vorgestellt": {
+            "Typ": "DDR4 DIMM 288-Pin",
+            "Takt": "3200MHz",
+            "Module": "2x 16GB",
+            "Modulhöhe": "39.17mm"
+        },
+        "Preis": "133,90",
+        "Typ": "DDR4 DIMM 288-Pin",
+        "Takt": "3200MHz",
+        "Module": "2x 16GB",
+        "JEDEC": "PC4-25600U",
+        "CAS Latency CL": "16 (entspricht ~10.00ns)",
+        "Row-to-Column Delay tRCD": "18 (entspricht ~11.25ns)",
+        "Row Precharge Time tRP": "18 (entspricht ~11.25ns)",
+        "Active-to-Precharge Time tRAS": "36 (entspricht ~22.50ns)",
+        "Spannung": "1.35V",
+        "Modulhöhe": "39.17mm",
+        "Gehäuse": "Heatspreader",
+        "Beleuchtung": "N/A",
+        "Besonderheiten": "Intel XMP 2.0"
+    },
+    "G.Skill RipJaws V DIMM Kit 16GB": {
+        "Vorgestellt": {
+            "Typ": "DDR4 DIMM 288-Pin",
+            "Takt": "3600MHz",
+            "Module": "2x 8GB",
+            "Modulhöhe": "42mm"
+        },
+        "Preis": "62,90",
+        "Typ": "DDR4 DIMM 288-Pin",
+        "Takt": "3600MHz",
+        "Module": "2x 8GB",
+        "JEDEC": "PC4-28800U",
+        "CAS Latency CL": "18 (entspricht ~10.00ns)",
+        "Row-to-Column Delay tRCD": "22 (entspricht ~12.22ns)",
+        "Row Precharge Time tRP": "22 (entspricht ~12.22ns)",
+        "Active-to-Precharge Time tRAS": "42 (entspricht ~23.33ns)",
+        "Spannung": "1.35V",
+        "Modulhöhe": "42mm",
+        "Gehäuse": "Heatspreader",
+        "Beleuchtung": "N/A",
+        "Besonderheiten": "Intel XMP 2.0"
+    },
+    "Corsair Vengeance DIMM Kit 32GB": {
+        "Vorgestellt": {
+            "Typ": "DDR5 DIMM 288-Pin, on-die ECC",
+            "Takt": "5600MHz",
+            "Module": "2x 16GB",
+            "Modulhöhe": "35mm"
+        },
+        "Preis": "259,90",
+        "Typ": "DDR5 DIMM 288-Pin, on-die ECC",
+        "Takt": "5600MHz",
+        "Module": "2x 16GB",
+        "JEDEC": "PC5-44800U",
+        "CAS Latency CL": "36 (entspricht ~12.86ns)",
+        "Row-to-Column Delay tRCD": "36 (entspricht ~12.86ns)",
+        "Row Precharge Time tRP": "36 (entspricht ~12.86ns)",
+        "Active-to-Precharge Time tRAS": "76 (entspricht ~27.14ns)",
+        "Spannung": "1.25V",
+        "Modulhöhe": "35mm",
+        "Gehäuse": "Heatspreader",
+        "Beleuchtung": "N/A",
+        "Besonderheiten": "Intel XMP 3.0"
+    }
+}

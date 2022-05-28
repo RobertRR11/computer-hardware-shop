@@ -1,0 +1,92 @@
+{
+    "be quiet! Pure Rock 2 Black": {
+        "Vorgestellt": {
+            "Bauart": "Tower-Kühler",
+            "Abmessungen mit Lüfter (BxHxT)": "121x155x87mm",
+            "Gewicht mit Lüfter": "575g",
+            "TDP-Klassifizierung": "150W"
+        },
+        "Preis": "34,30",
+        "Bauart": "Tower-Kühler",
+        "Abmessungen mit Lüfter (BxHxT)": "121x155x87mm",
+        "Lüfter": "1x 120x120x25mm, 1500rpm, 87m³/h, 19.1-26.8dB(A)",
+        "Gewicht mit Lüfter": "575g",
+        "Anschluss": "4-Pin PWM",
+        "Sockel": "1150/1151/1155/1200, 1700 (Hinweis beachten), 2011-0/2011-1/2011-3/2066, AM4",
+        "TDP-Klassifizierung": "150W",
+        "Beleuchtung": "N/A",
+        "Besonderheiten": "4 Heatpipes (6mm), Heatpipe-Direct-Touch, schwarzer Kühlkörper"
+    },
+    "be quiet! Dark Rock Pro 4": {
+        "Vorgestellt": {
+            "Bauart": "Tower-Kühler",
+            "Abmessungen mit Lüfter (BxHxT)": "136x163x146mm",
+            "Gewicht mit Lüfter": "1.13kg",
+            "TDP-Klassifizierung": "250W"
+        },
+        "Preis": "74,00",
+        "Bauart": "Tower-Kühler",
+        "Abmessungen mit Lüfter (BxHxT)": "136x163x146mm",
+        "Lüfter": "1x 135x135x22mm, 1200rpm, 24.3dB(A) + 1x 120x120x25mm, 1500rpm",
+        "Gewicht mit Lüfter": "1.13kg",
+        "Anschluss": "4-Pin PWM",
+        "Sockel": "1150/1151/1155/1156/1200, 1700 (Hinweis beachten), 2011-0/2011-1/2011-3/2066, AM2/AM2+/AM3/AM3+, AM4, FM1/FM2/FM2+",
+        "TDP-Klassifizierung": "250W",
+        "Beleuchtung": "N/A",
+        "Besonderheiten": "7 Heatpipes (6mm), Dual-Tower, schwarzer Kühlkörper, inkl. Schraubendreher"
+    },
+    "Scythe Fuma 2 Rev. B": {
+        "Vorgestellt": {
+            "Bauart": "Tower-Kühler",
+            "Abmessungen mit Lüfter (BxHxT)": "137x155x129mm",
+            "Gewicht mit Lüfter": "1.00kg",
+            "Anschluss": "4-Pin PWM"
+        },
+        "Preis": "59,88",
+        "Bauart": "Tower-Kühler",
+        "Abmessungen mit Lüfter (BxHxT)": "137x155x129mm",
+        "Lüfter": "1x 120x120x26mm, 300-1500rpm, 28.71-114.89m³/h, 0.075-1.5mmH₂O, 4-28.6dB(A), 1x 120x120x15mm, 300-1500rpm, 13.86-67m³/h, 0.045-0.96mmH₂O, 2.58-23.8dB(A)",
+        "Gewicht mit Lüfter": "1.00kg",
+        "Anschluss": "4-Pin PWM",
+        "Sockel": "775, 1150/1151/1155/1156/1200, 1700, 2011-0/2011-1/2011-3/2066, AM2/AM2+/AM3/AM3+, AM4, FM1/FM2/FM2+",
+        "Beleuchtung": "N/A",
+        "Besonderheiten": "6 Heatpipes (6mm), Dual-Tower"
+    },
+    "Noctua NH-D15 chromax.black": {
+        "Vorgestellt": {
+            "Bauart": "Tower-Kühler",
+            "Abmessungen mit Lüfter (BxHxT)": "150x165x161mm",
+            "Gewicht mit Lüfter": "1.32kg",
+            "Anschluss": "4-Pin PWM"
+        },
+        "Preis": "104,62",
+        "Bauart": "Tower-Kühler",
+        "Abmessungen mit Lüfter (BxHxT)": "150x165x161mm",
+        "Abmessungen ohne Lüfter (BxHxT)": "150x160x135mm",
+        "Lüfter": "2x 140x150x25mm, 1500rpm, 140.2m³/h, 2.08mmH₂O, 24.6dB(A)",
+        "Gewicht mit Lüfter": "1.32kg",
+        "Gewicht ohne Lüfter": "1.00kg",
+        "Anschluss": "4-Pin PWM",
+        "Sockel": "1150/1151/1155/1156/1200, 1700 (Hinweis beachten), 2011-0/2011-1/2011-3/2066, AM2/AM2+/AM3/AM3+, AM4, AM5, FM1/FM2/FM2+",
+        "Beleuchtung": "N/A",
+        "Besonderheiten": "6 Heatpipes, Dual-Tower, vernickelt, schwarzer Kühlkörper"
+    },
+    "be quiet! Dark Rock 4": {
+        "Vorgestellt": {
+            "Bauart": "Tower-Kühler",
+            "Abmessungen mit Lüfter (BxHxT)": "136x159x96mm",
+            "Gewicht mit Lüfter": "920g",
+            "TDP-Klassifizierung": "200W"
+        },
+        "Preis": "59,98",
+        "Bauart": "Tower-Kühler",
+        "Abmessungen mit Lüfter (BxHxT)": "136x159x96mm",
+        "Lüfter": "1x 135x135x22mm, 1400rpm, 21.4dB(A)",
+        "Gewicht mit Lüfter": "920g",
+        "Anschluss": "4-Pin PWM",
+        "Sockel": "1150/1151/1155/1156/1200, 1700 (Hinweis beachten), 2011-0/2011-1/2011-3/2066, AM2/AM2+/AM3/AM3+, AM4, FM1/FM2/FM2+",
+        "TDP-Klassifizierung": "200W",
+        "Beleuchtung": "N/A",
+        "Besonderheiten": "6 Heatpipes (6mm), schwarzer Kühlkörper, inkl. Schraubendreher"
+    }
+}
